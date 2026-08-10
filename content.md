@@ -10,6 +10,11 @@ I'm an Ph.D. student at UT-Austin advised by Professors [Milos Gligoric](https:/
 I'm generally interested in using LLM to help with Software Engineering problems
 
 ## Publications
+- **Retrofitting Code to Support Exceptional Behavior**
+  
+  **Linghan Zhong**, Jiyang Zhang, Jayanth Srinivasa, Junyi Jessy Li and Milos Gligoric
+  
+  ISSRE 2026
 
 - **A Tool for Generating Exceptional Behavior Tests With Large Language Models**
   
