@@ -10,9 +10,16 @@ I'm an Ph.D. student at UT-Austin advised by Professors [Milos Gligoric](https:/
 I'm generally interested in using LLM to help with Software Engineering problems
 
 ## Publications
+- **CROCODIL: Cross-Model Code Editing with LLMs**
+  
+  **Linghan Zhong**, Aditya Thimmaiah, Jayanth Srinivasa, Milos Gligoric, and Junyi Jessy Li
+  
+  EMNLP 2026
+
+
 - **Retrofitting Code to Support Exceptional Behavior**
   
-  **Linghan Zhong**, Jiyang Zhang, Jayanth Srinivasa, Junyi Jessy Li and Milos Gligoric
+  **Linghan Zhong**, Jiyang Zhang, Jayanth Srinivasa, Junyi Jessy Li, and Milos Gligoric
   
   ISSRE 2026
 
